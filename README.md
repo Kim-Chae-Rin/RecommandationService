@@ -17,4 +17,5 @@
 
 - 공공데이터
   - https://data.seoul.go.kr/dataList/OA-15067/S/1/datasetView.do
-  - https://data.seoul.go.kr/dataList/OA-15067/S/1/datasetView.do
+
+https://observablehq.com/@taekie/seoul_subway_station_coordinate
