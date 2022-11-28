@@ -19,3 +19,6 @@
   - https://data.seoul.go.kr/dataList/OA-15067/S/1/datasetView.do
 
 https://observablehq.com/@taekie/seoul_subway_station_coordinate
+
+누락 데이터 - 지하철역
+![image](https://user-images.githubusercontent.com/87185180/204174597-bc1de12f-c815-4ce2-b6bc-5a47e40c24aa.png)
